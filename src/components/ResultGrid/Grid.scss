@@ -1,0 +1,8 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 10%;
+    height: calc(100vh - 80px);
+    background-color: white;
+}

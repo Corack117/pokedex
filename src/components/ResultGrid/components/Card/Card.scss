@@ -1,0 +1,26 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 5%;
+    margin: 1rem;
+    width: 20rem;
+    height: 20rem;
+    background-color: rgb(0, 0, 0, 0.1);
+
+    h1 {
+        width: 100%;
+        max-width: 100%;
+        max-height: 18px;
+        font-size: 18px;
+        color: black;
+        text-align: center;
+    }
+
+    img {
+        position: relative;
+        width: 80%;
+        border-radius: 10%;
+        background-color: rgb(77, 77, 77);
+    }
+}
